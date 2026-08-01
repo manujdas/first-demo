@@ -1,2 +1,3 @@
 # first-demo
-this is my first project
+this is my git repository
+author - manujdas
